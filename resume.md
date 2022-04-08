@@ -40,7 +40,7 @@ I was a part-time student who returned to school after some time spent working i
 - Graduated with my A.A. in Mar 2020
 
 ## University of Washington (Seattle, WA)
-*[University of Washington][] A public university in the state of Washington. Founded in 1861, this university in the city of Seattle is one of the oldest on the West Coast.
+* [University of Washington][] A public university in the state of Washington. Founded in 1861, this university in the city of Seattle is one of the oldest on the West Coast.
 
 **Student** (Jun 2020 - Present)
 
