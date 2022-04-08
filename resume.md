@@ -32,7 +32,7 @@ Mar 2013 - Oct 2015 · 2 yrs 8 mos
 
 * [Shoreline Community College][] A public Washington community college, affiliated with the University of Washington, located in Shoreline, WA.
 
-** Student** (Mar 2017 - Mar 2020)
+**Student** (Mar 2017 - Mar 2020)
 
 I was a part-time student who returned to school after some time spent working in the restaurnt and automotive indsustries. 
 
@@ -42,7 +42,7 @@ I was a part-time student who returned to school after some time spent working i
 ## University of Washington (Seattle, WA)
 *[University of Washington][] A public university in the state of Washington. Founded in 1861, this university in the city of Seattle is one of the oldest on the West Coast.
 
-** Student** (Jun 2020 - Present)
+**Student** (Jun 2020 - Present)
 
 I am a part time student currently enrolled at the University of Washington. Majoring in Geography with a Data Science option.
 
